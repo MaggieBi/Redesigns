@@ -7,8 +7,8 @@ body{
     margin:0px;
     font-family: "sofiapro-light", "Helvetica", sans-serif;
     color:#333333;
-    background-color: rgba(225,255,165,0.4);
     font-size: 18px;
+    background-color: #d7dfff;
 }
 
 #container{
@@ -33,6 +33,7 @@ nav {
 
 span{
     font-size: 35px;
+    font-family:'sofiapro-light', "Helvetica", sans-serif;
 }
 
 .title{
@@ -100,6 +101,9 @@ img {
     width: 80%;
     margin:auto;
     margin-bottom: 30px;
+    text-align: justify;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    line-height: 1.5;
 }
 
 #about{
@@ -124,8 +128,9 @@ img {
 
 #about p{
     display:inline;
-    
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
     text-align: justify;
+    line-height: 1.5;
 }
 
 footer {
